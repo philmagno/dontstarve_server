@@ -4,7 +4,7 @@ services:
     build:
       context: https://github.com/dst-academy/docker-dontstarvetogether.git#v0.8.0:build
       args:
-        MODS: 378160973,492173795,407705132
+        MODS: 378160973,492173795,407705132,666155465,358749986,347360448,378160973,462469447
     container_name: rage_club
     hostname: rage_club
     tty: true
